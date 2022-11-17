@@ -1,2 +1,2 @@
-# 97plus269errors
-97 + 269 errors every pogrammer should recognize
+97 + 269 Errors Every Programmer Should Recognize
+=================================================
