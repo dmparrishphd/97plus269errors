@@ -8,6 +8,8 @@ _This collection is given the globally unique persistent identifier:&mdash;_
 
 o3604475413310456517545145243741323277510372
 
+What is this hypertext nonfiction book about? See title.
+
 Storage Disciplines
 -------------------
 
